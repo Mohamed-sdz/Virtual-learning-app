@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phase 4 Full-Stack Application Project Template
 
 ## Learning Goals
@@ -355,3 +356,6 @@ Happy coding!
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - [Python Circular Imports - StackAbuse](https://stackabuse.com/python-circular-imports/)
 - [Flask-CORS](https://flask-cors.readthedocs.io/en/latest/)
+=======
+# Virtual-learning-app
+>>>>>>> d82583b44cb597178c8f5c0ecd7029e9d2618099
